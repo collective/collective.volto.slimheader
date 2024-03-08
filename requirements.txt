@@ -1,2 +1,0 @@
--r requirements_plone60.txt
-setuptools==69.0.3

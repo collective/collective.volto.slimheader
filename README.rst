@@ -2,31 +2,6 @@
    If you want to learn more about writing documentation, please check out: http://docs.plone.org/about/documentation_styleguide.html
    This text does not appear on PyPI or github. It is a comment.
 
-.. image:: https://github.com/collective/collective.volto.slimheader/actions/workflows/plone-package.yml/badge.svg
-    :target: https://github.com/collective/collective.volto.slimheader/actions/workflows/plone-package.yml
-
-.. image:: https://coveralls.io/repos/github/collective/collective.volto.slimheader/badge.svg?branch=main
-    :target: https://coveralls.io/github/collective/collective.volto.slimheader?branch=main
-    :alt: Coveralls
-
-.. image:: https://codecov.io/gh/collective/collective.volto.slimheader/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/collective/collective.volto.slimheader
-
-.. image:: https://img.shields.io/pypi/v/collective.volto.slimheader.svg
-    :target: https://pypi.python.org/pypi/collective.volto.slimheader/
-    :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/status/collective.volto.slimheader.svg
-    :target: https://pypi.python.org/pypi/collective.volto.slimheader
-    :alt: Egg Status
-
-.. image:: https://img.shields.io/pypi/pyversions/collective.volto.slimheader.svg?style=plastic   :alt: Supported - Python Versions
-
-.. image:: https://img.shields.io/pypi/l/collective.volto.slimheader.svg
-    :target: https://pypi.python.org/pypi/collective.volto.slimheader/
-    :alt: License
-
-
 ===========================
 collective.volto.slimheader
 ===========================

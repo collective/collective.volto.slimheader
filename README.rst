@@ -9,7 +9,41 @@ collective.volto.slimheader
 Volto Slim Header
 
 
-The package is designed as a backend for `volto-slimheader <https://github.com/collective/volto-slimheader>`_ .
+Features
+--------
+
+- Control panel for plone registry to manage slimheader configuration.
+- Restapi view that exposes these settings for Volto.
+
+This addon only add a registry entry where store some configuration data. You need to provide
+the edit interface in your Volto theme.
+
+Volto endpoint
+--------------
+
+The data is available on this enpoint *@slimheader*::
+
+    > curl -i http://localhost:8080/Plone/@slimheader -H 'Accept: application/json'
+
+
+The response is something similar to this::
+
+    [
+        ...Volto JSON data here
+    ]
+
+
+Control panel
+-------------
+
+You can edit settings directly from Volto because the control has been registered on Plone and available with plone.restapi.
+
+Volto integration
+-----------------
+
+To use this product in Volto, your Volto project needs to include a new plugin: volto-slimheader_.
+
+.. _volto-slimheader: https://github.com/collective/volto-slimheader
 
 
 Translations

@@ -9,6 +9,9 @@ collective.volto.slimheader
 Volto Slim Header
 
 
+The package is designed as a backend for `volto-slimheader <https://github.com/collective/volto-slimheader>`_ .
+
+
 Translations
 ------------
 
